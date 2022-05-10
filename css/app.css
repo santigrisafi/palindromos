@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+button{
+    background-color: aliceblue;
+    color: darkred;
+    text-align: center;
+}
